@@ -1,5 +1,5 @@
 {
-	"app_version": "0.2.2_2b",
+	"app_version": "0.1.7b",
 	"overlays_list": [
 	"com.zui.launcher.overlay",
 	"com.zui.launchersdk.overlay",
@@ -32,7 +32,9 @@
 	"com.zui.zhealthy.overlay",
 	"com.zui.notes.overlay",
 	"com.zui.recorder.overlay",
-	"com.zui.networkaclr.overlay"
+	"com.zui.networkaclr.overlay",
+	"com.zui.resolver.overlay",
+	"com.zui.compass.overlay"
 	],
 	"apps_list": [
 	"ZuiLauncher.apk",
@@ -66,7 +68,9 @@
 	"ZuiUHealth.apk",
 	"XuiNotes.apk",
 	"XuiRecorder.apk",
-	"ZuiNetworkAclr.apk"
+	"ZuiNetworkAclr.apk",
+	"ZuiResolver.apk",
+	"XuiCompass.apk"
 	],
 	"removed_system_app": [
 	"/system/preinstall/alipay",
