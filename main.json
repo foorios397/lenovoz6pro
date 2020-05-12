@@ -106,6 +106,9 @@
 	"/system/priv-app/DataMonitor",
 	"/system/priv-app/LeVoiceAgent",
 	"/system/priv-app/ZuiUserExperience",
-	"/system/priv-app/ZuiFlowRecharge"
+	"/system/priv-app/ZuiFlowRecharge",
+	"/system/priv-app/ZuiXlog",
+	"/system/priv-app/ZuiBug2Go",
+	"/system/preinstall/TAssistent"
 	]
 }
