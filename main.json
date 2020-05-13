@@ -1,5 +1,5 @@
 {
-	"app_version": "0.1.7b",
+	"app_version": "0.2.5b",
 	"overlays_list": [
 	"com.zui.launcher.overlay",
 	"com.zui.launchersdk.overlay",
