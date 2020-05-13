@@ -34,7 +34,8 @@
 	"com.zui.recorder.overlay",
 	"com.zui.networkaclr.overlay",
 	"com.zui.resolver.overlay",
-	"com.zui.compass.overlay"
+	"com.zui.compass.overlay",
+	"com.android.providers.media.overlay"
 	],
 	"apps_list": [
 	"ZuiLauncher.apk",
@@ -70,7 +71,8 @@
 	"XuiRecorder.apk",
 	"ZuiNetworkAclr.apk",
 	"ZuiResolver.apk",
-	"XuiCompass.apk"
+	"XuiCompass.apk",
+	"ZuiMediaProvider.apk"
 	],
 	"removed_system_app": [
 	"/system/preinstall/alipay",
