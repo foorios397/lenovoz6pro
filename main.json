@@ -35,7 +35,9 @@
 	"com.zui.networkaclr.overlay",
 	"com.zui.resolver.overlay",
 	"com.zui.compass.overlay",
-	"com.android.providers.media.overlay"
+	"com.android.providers.media.overlay",
+	"com.zui.wallpapercropper.overlay",
+	"com.zui.homesettings.overlay"
 	],
 	"apps_list": [
 	"ZuiLauncher.apk",
@@ -72,7 +74,9 @@
 	"ZuiNetworkAclr.apk",
 	"ZuiResolver.apk",
 	"XuiCompass.apk",
-	"ZuiMediaProvider.apk"
+	"ZuiMediaProvider.apk",
+	"ZuiGalleryWallpaperCropper.apk",
+	"ZuiHomeSettings.apk"
 	],
 	"removed_system_app": [
 	"/system/preinstall/alipay",
