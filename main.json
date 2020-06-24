@@ -1,5 +1,5 @@
 {
-	"app_version": "0.2.5b",
+	"app_version": "0.3.2b",
 	"overlays_list": [
 	"com.zui.launcher.overlay",
 	"com.zui.launchersdk.overlay",
@@ -37,7 +37,8 @@
 	"com.zui.compass.overlay",
 	"com.android.providers.media.overlay",
 	"com.zui.wallpapercropper.overlay",
-	"com.zui.homesettings.overlay"
+	"com.zui.homesettings.overlay",
+	"com.lenovo.leos.appstore.overlay"
 	],
 	"apps_list": [
 	"ZuiLauncher.apk",
@@ -76,11 +77,12 @@
 	"XuiCompass.apk",
 	"ZuiMediaProvider.apk",
 	"ZuiGalleryWallpaperCropper.apk",
-	"ZuiHomeSettings.apk"
+	"ZuiHomeSettings.apk",
+	"LenovoStore.apk"
 	],
 	"removed_system_app": [
 	"/system/preinstall/alipay",
-	"/system/priv-app/LenovoStore",
+	"/system/priv-app/ZuiBug2Go",
 	"/system/preinstall/baidumap",
 	"/system/priv-app/ZuiBrowser",
 	"/system/preinstall/Dianping",
@@ -114,7 +116,6 @@
 	"/system/priv-app/ZuiUserExperience",
 	"/system/priv-app/ZuiFlowRecharge",
 	"/system/priv-app/ZuiXlog",
-	"/system/priv-app/ZuiBug2Go",
 	"/system/preinstall/TAssistent"
 	]
 }
